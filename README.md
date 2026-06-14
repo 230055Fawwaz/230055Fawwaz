@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Fawwaz 👋
 
-<!--
-**230055Fawwaz/230055Fawwaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Efek Animasi Mengetik (Typing Effect) -->
+<a href="https://github.com/230055Fawwaz">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=false&vCenter=false&width=435&lines=Welcome+to+my+profile!;+I'm+a+Tech+Enthusiast;+Let's+build+something+cool!" alt="Typing Effect" />
+</a>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+Saya sedang bereksperimen dengan profil GitHub agar terlihat lebih menarik dan dinamis. 
+
+- 🔭 **Currently working on:** ...
+- 🌱 **Currently learning:** ...
+- 💬 **Ask me about:** ...
+- 📫 **How to reach me:** ...
+
+---
+
+## 📊 My GitHub Stats
+
+<!-- Baris ini untuk menampilkan animasi statistik GitHub kamu -->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=230055Fawwaz&show_icons=true&theme=tokyonight&count_private=true" alt="Fawwaz's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=230055Fawwaz&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
+</p>
+
+---
+
+<p align="center">
+  ⚡ <i>"Coding is the closest thing we have to magic."</i>
+</p>
