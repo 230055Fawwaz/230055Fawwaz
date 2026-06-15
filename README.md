@@ -10,10 +10,15 @@
 ## 🚀 About Me
 Saya sedang bereksperimen dengan profil GitHub agar terlihat lebih menarik dan dinamis. 
 
-- 🔭 **Currently working on:** **[MyFinance]**, aplikasi pencatat keuangan lokal berbasis Flask & SQLite, serta **[Tool Center]** (katalog skrip otomatisasi Batch/PowerShell).
+- 🔭 **Currently working on:** **[MyFinance](https://github.com/230055Fawwaz/MyFinance)**, aplikasi pencatat keuangan lokal berbasis Flask & SQLite, serta **[Tool Center](https://github.com/230055Fawwaz/ToolCenter)** (katalog skrip otomatisasi Batch/PowerShell).
 - 🌱 **Currently learning:** Microservices dengan Flask, optimasi *database* (SQLite), serta *Decision Support System* (DSS) & Data Mining menggunakan Python.
 - 💬 **Ask me about:** Jaringan (*Device Config*, Kali Linux, CTF) atau ngobrol santai seputar *general coding*. (Aku mungkin tidak tahu segalanya, tapi aku selalu senang belajar hal baru bersama!)
-- 📫 **How to reach me:** https://www.linkedin.com/in/fawwaz-yaqzhan-820aa3299
+- 📫 **How to reach me:** [Terhubung denganku di LinkedIn](https://www.linkedin.com/in/fawwaz-yaqzhan-820aa3299)
+
+### 💻 Tech Stack & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,flask,sqlite,html,css,js,powershell,linux&theme=dark" alt="My Skills" />
+</p>
 
 ---
 
